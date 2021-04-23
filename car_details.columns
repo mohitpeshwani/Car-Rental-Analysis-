@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"details_id","INTEGER","4","4","0"
+"year_of_manuf","INTEGER","4","4","0"
+"fuel_type","STRING","8","0","0"
+"no_of_seats","INTEGER","1","1","0"
+"transmission_type","STRING","6","0","0"

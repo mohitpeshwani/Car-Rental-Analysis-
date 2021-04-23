@@ -1,0 +1,3 @@
+"name","type","length","leftDigits","rightDigits"
+"payment_id","INTEGER","4","4","0"
+"payment_mode","STRING","6","0","0"

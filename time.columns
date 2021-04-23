@@ -1,0 +1,5 @@
+"name","type","length","leftDigits","rightDigits"
+"time_id","INTEGER","4","4","0"
+"date","INTEGER","2","2","0"
+"month","INTEGER","2","2","0"
+"year","INTEGER","4","4","0"

@@ -1,0 +1,7 @@
+"name","type","length","leftDigits","rightDigits"
+"car_id","INTEGER","4","4","0"
+"details_id","INTEGER","4","4","0"
+"car_brand","STRING","17","0","0"
+"car_color","STRING","6","0","0"
+"car_type","STRING","11","0","0"
+"car_price","INTEGER","6","6","0"

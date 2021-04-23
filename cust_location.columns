@@ -1,0 +1,5 @@
+"name","type","length","leftDigits","rightDigits"
+"location_id","INTEGER","4","4","0"
+"street_name","STRING","38","0","0"
+"zip_code","INTEGER","6","6","0"
+"state","STRING","27","0","0"

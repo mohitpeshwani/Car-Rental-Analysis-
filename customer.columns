@@ -1,0 +1,6 @@
+"name","type","length","leftDigits","rightDigits"
+"cust_id","INTEGER","4","4","0"
+"location_id","INTEGER","4","4","0"
+"name","STRING","11","0","0"
+"city","STRING","29","0","0"
+"age","INTEGER","2","2","0"
