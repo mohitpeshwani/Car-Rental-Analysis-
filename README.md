@@ -1,7 +1,7 @@
-## CAR RENTAL ANLYSIS   
-This is the Data Anlalysis using the various algorithms,
+## CAR RENTAL ANALYSIS
+This is the Data Analysis using the various algorithms,
 <ul style="list-style-type:square;">
-  <li>Sales anlysis</li>
+  <li>Sales analysis</li>
   <li>Customer analysis</li>
-  <li>Center anlysis</li>
+  <li>Center analysis</li>
 </ul>
